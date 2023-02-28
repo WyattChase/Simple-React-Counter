@@ -1,4 +1,12 @@
-
+div {
+    background-color: black;
+    line-height: 130px;
+    display: inline-block;
+    height: 130px;
+    color: white;
+    font-size: 100px;
+    padding: 10px;
+}
 /* 
 
     You can write your own styles here...
